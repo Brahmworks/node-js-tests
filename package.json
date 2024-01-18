@@ -1,0 +1,24 @@
+{
+  "name": "js-tests",
+  "version": "1.0.0",
+  "description": "Junk Repo to create and test random node applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node usbserial.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brahmworks/node-js-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brahmworks/node-js-tests/issues"
+  },
+  "homepage": "https://github.com/Brahmworks/node-js-tests#readme",
+  "dependencies": {
+    "modbus-serial": "^8.0.16"
+  }
+}
